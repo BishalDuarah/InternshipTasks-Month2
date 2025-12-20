@@ -1,5 +1,5 @@
 # InternshipTasks-Month2
-# Supermarket Sales Analysis
+# Project-1 Supermarket Sales Analysis
 
 ## Project Overview
 This project analyzes supermarket sales data to identify revenue trends, product performance, and customer purchasing behavior. The goal is to extract actionable business insights that support data-driven decision-making in retail operations.
