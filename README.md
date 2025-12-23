@@ -148,7 +148,7 @@ Daily Climate Time Series Data (Kaggle)
 Python, Pandas, NumPy, Matplotlib, Seaborn, Statsmodels
 
 
-### Project-4: COVID-19 Healthcare Trends
+# Project-4: COVID-19 Healthcare Trends
 - Performed time-series analysis on global COVID-19 data
 - Identified growth patterns, pandemic waves, and peak periods
 - Analyzed healthcare burden using active case trends
