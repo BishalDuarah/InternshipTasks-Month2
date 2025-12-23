@@ -114,7 +114,6 @@ The analysis reveals that student performance is influenced by a combination of 
 * Develop personalized academic recommendation systems
 
 ## How to Run the Project
-
 1. Clone the repository
 
    ```bash
@@ -127,6 +126,29 @@ The analysis reveals that student performance is influenced by a combination of 
    pip install -r requirements.txt
    ```
 4. Open the Jupyter Notebook and run all cells sequentially
+
+
+# Project-3 Weather Analysis
+## Project Overview
+This project analyzes daily climate data to identify temperature trends,
+seasonal variations, rainfall distribution, and extreme weather events
+using time-series analysis techniques.
+
+## Dataset
+Daily Climate Time Series Data (Kaggle)
+
+## Key Techniques
+- Exploratory Data Analysis (EDA)
+- Rolling Mean Analysis
+- Seasonal Decomposition
+- Correlation Analysis
+- Z-Score Based Extreme Weather Detection
+
+## Tools Used
+Python, Pandas, NumPy, Matplotlib, Seaborn, Statsmodels
+
+
+
 
 
 
